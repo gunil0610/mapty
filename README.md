@@ -2,4 +2,4 @@
 
 Web app to track your workout log
 
-practicing OOP in JS
+practicing OOP with vanilla JS
